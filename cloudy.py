@@ -11,7 +11,7 @@ echo "."
 
 echo  "#####################################"
 echo   "  SUBSCRIBE    CLOUDY2.0      "               
- echo   " FOR TECHNOLOGY &  GREY HACKING VIDEOS "   
+ echo   " FOR TECHNOLOGY & GREY HAT HACKING VIDEOS "   
  
 echo   "####################################"
 
@@ -30,7 +30,7 @@ apt install git -y
 
 echo  "#####################################"
 echo   "  SUBSCRIBE    CLOUDY2.0      "               
- echo   " FOR TECHNOLOGY &  GREY HACKING VIDEOS " 
+ echo   " FOR TECHNOLOGY &  GREY HAT HACKING VIDEOS " 
  
 echo   "####################################"
 
@@ -40,7 +40,7 @@ apt install nmap -y
 
 echo  "#####################################"
 echo   "  SUBSCRIBE    CLOUDY2.0      "               
- echo   " FOR TECHNOLOGY &  GREY HACKING VIDEOS "                                                                    
+ echo   " FOR TECHNOLOGY &  GREY HAT HACKING VIDEOS "                                                                    
 echo   "####################################"
 
 apt install bash -y
@@ -50,7 +50,7 @@ apt install macchanger -y
 
 echo  "#####################################"
 echo   "  SUBSCRIBE    CLOUDY2.0      "               
- echo   " FOR TECHNOLOGY &  GREY HACKING VIDEOS "                                                                    
+ echo   " FOR TECHNOLOGY &  GREY HAT HACKING VIDEOS "                                                                    
 echo   "####################################"
 
 apt install nano -y
@@ -60,7 +60,7 @@ apt install zip -y
 
 echo  "#####################################"
 echo   "  SUBSCRIBE    CLOUDY2.0      "               
- echo   " FOR TECHNOLOGY &  GREY HACKING VIDEOS "                                                                    
+ echo   " FOR TECHNOLOGY &  GREY HAT HACKING VIDEOS "                                                                    
 echo   "####################################"
 
 apt install unzip -y
@@ -70,7 +70,7 @@ apt install wget -y
 
 echo  "#####################################"
 echo   "  SUBSCRIBE    CLOUDY2.0      "               
- echo   " FOR TECHNOLOGY &  GREY HACKING VIDEOS "                                                                    
+ echo   " FOR TECHNOLOGY &  GREY HAT HACKING VIDEOS "                                                                    
 echo   "####################################"
 
 apt install wcalc -y 
@@ -79,7 +79,7 @@ apt install bmon -y
 
 echo  "#####################################"
 echo   "  SUBSCRIBE    CLOUDY2.0      "               
- echo   " FOR TECHNOLOGY &  GREY HACKING VIDEOS "                                                                    
+ echo   " FOR TECHNOLOGY &  GREY HAT HACKING VIDEOS "                                                                    
 echo   "####################################"
 
 echo " If You Connected To Internet Then  "
